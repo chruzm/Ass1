@@ -18,6 +18,7 @@ seclevel2 burde være i stand til at fjerne familie fra families.json
 "Filter By Owners" virker, men siden crasher efter den bliver brugt. 
 "Filter By Housenumber" virker, men listen forsvinder når man indtaster/når 
 et tal, som ikke matcher housenumber fra families.json filen. 
+at bruge begge filtreringsmetoder synkront er ikke implementeret
 
 securitylevel2 funktionen til at fjerne familie fra listen virker ikke. 
 ;(((
